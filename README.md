@@ -123,6 +123,6 @@ form .display input {
 
 ## Video
 <a href="https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7" target="_blank">
-    <img src="https://path-to-your-thumbnail-image" width="600" />
+    <img src="https://github.com/adityamishras/Calculator/assets/136791974/4f6f9ccf-6f3a-475c-9c4b-7bd964a4cfda" width="600" />
 </a>
 
