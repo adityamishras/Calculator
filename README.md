@@ -113,7 +113,7 @@ form .display input {
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/adityamishras/Calculator/assets/136791974/cf4de489-0705-4a22-8d42-48efb5ffca56)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityamishras.github.io/page/)
