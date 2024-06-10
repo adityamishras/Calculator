@@ -121,6 +121,6 @@ form .display input {
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adityamishras)
 
 
-
-https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7
+## Video
+[![video]](style=width:40px)(https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7)
 
