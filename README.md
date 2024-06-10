@@ -122,5 +122,7 @@ form .display input {
 
 
 ## Video
-[![video]](style=width:40px)(https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7)
+<a href="https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7" target="_blank">
+    <img src="https://path-to-your-thumbnail-image" width="600" />
+</a>
 
