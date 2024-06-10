@@ -115,14 +115,14 @@ form .display input {
 
 ![App Screenshot](https://github.com/adityamishras/Calculator/assets/136791974/cf4de489-0705-4a22-8d42-48efb5ffca56)
 
+## Video
+<a href="https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7" target="_blank" controls autoplay>
+<img src="https://github.com/adityamishras/Calculator/assets/136791974/8cb7b80c-9eea-47d9-b334-4d9a8f279786"  width="300"/>
+</a>
+
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adityamishras.github.io/page/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityamishras)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adityamishras)
 
-
-## Video
-<a href="https://github.com/adityamishras/Calculator/assets/136791974/54e9506e-7800-450b-9804-58ac6c644cc7" target="_blank">
-    <img src="https://github.com/adityamishras/Calculator/assets/136791974/4f6f9ccf-6f3a-475c-9c4b-7bd964a4cfda" width="600" />
-</a>
 
